@@ -1,10 +1,10 @@
-"results": [
-{
-"gender": "Male",
-"name": {
-"title": "Mr",
-"first": "Vasco",
-"last": "Eti"
+[
+ {
+   "gender": "Male",
+   "name": {
+   "title": "Mr",
+   "first": "Vasco",
+   "last": "Eti"
  },
 "location": {
 "street": {
