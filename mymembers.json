@@ -1,20 +1,52 @@
-[
+"results": [
 {
-"id": 1,
-"name": "Vasco Eti",
-"username": "Eddie",
-"date of birth":"1994/01/29",
-"email": "vascoeti123@gmail.com",
-"address":"2670 section M Botshabelo",
-"phone": "081 319 0025",
+"gender": "Male",
+"name": {
+"title": "Mr",
+"first": "Vasco",
+"last": "Eti"
+ },
+"location": {
+"street": {
+"number": 2916,
+"name": "Section M"
+  },
+},
+"email": "constance.gartner@example.com",
+"dob": {
+"date": "1978-12-04T21:18:24.777Z",
+"age": 44
+},
+"phone": "0729-0423760",
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/51.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+  },
 },
 {
-"id": 2,
-"name": "Kamohelo Monakaladi",
-"username": "Sesky",
-"date of birth":"22/01/29",
-"email": "kamohelomonakaladi@gmail.com",
-"address":"2718 section M Botshabelo",
-"phone": "078 810 8531",
+"gender": "Male",
+"name": {
+"title": "Mr",
+"first": "Vasco",
+"last": "Eti"
+},
+"location": {
+"street": {
+"number": 2916,
+"name": "Section M"
+  },
+},
+"email": "constance.gartner@example.com",
+"dob": {
+"date": "1978-12-04T21:18:24.777Z",
+"age": 44
+  },
+"phone": "0729-0423760",
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/51.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+  },
 }
 ]
