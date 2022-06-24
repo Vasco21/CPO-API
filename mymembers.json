@@ -1,52 +1,52 @@
 [
- {
-   "gender": "Male",
-   "name": {
-   "title": "Mr",
-   "first": "Vasco",
-   "last": "Eti"
- },
-"location": {
-"street": {
-"number": 2916,
-"name": "Section M"
+  {
+    "gender": "Male",
+    "name": {
+      "title": "Mr",
+      "first": "Vasco",
+      "last": "Eti"
+    },
+    "location": {
+      "street": {
+        "number": 2916,
+        "name": "Section M"
+      }
+    },
+    "email": "constance.gartner@example.com",
+    "dob": {
+      "date": "1978-12-04T21:18:24.777Z",
+      "age": 44
+    },
+    "phone": "0729-0423760",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/51.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+    }
   },
-},
-"email": "constance.gartner@example.com",
-"dob": {
-"date": "1978-12-04T21:18:24.777Z",
-"age": 44
-},
-"phone": "0729-0423760",
-"picture": {
-"large": "https://randomuser.me/api/portraits/women/51.jpg",
-"medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
-"thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
-  },
-},
-{
-"gender": "Male",
-"name": {
-"title": "Mr",
-"first": "Vasco",
-"last": "Eti"
-},
-"location": {
-"street": {
-"number": 2916,
-"name": "Section M"
-  },
-},
-"email": "constance.gartner@example.com",
-"dob": {
-"date": "1978-12-04T21:18:24.777Z",
-"age": 44
-  },
-"phone": "0729-0423760",
-"picture": {
-"large": "https://randomuser.me/api/portraits/women/51.jpg",
-"medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
-"thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
-  },
-}
+  {
+    "gender": "Male",
+    "name": {
+      "title": "Mr",
+      "first": "Vasco",
+      "last": "Eti"
+    },
+    "location": {
+      "street": {
+        "number": 2916,
+        "name": "Section M"
+      }
+    },
+    "email": "constance.gartner@example.com",
+    "dob": {
+      "date": "1978-12-04T21:18:24.777Z",
+      "age": 44
+    },
+    "phone": "0729-0423760",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/51.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+    }
+  }
 ]
