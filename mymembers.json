@@ -60,6 +60,26 @@
     }
   },
   {
+    "names": "Sesky monakaladi",
+    "gender": "Male",
+    "email": "constance.gartner@example.com",
+    "phone": "078 888 5531",
+    "grade":"Grade 12",
+    "location": {
+      "number": 2886,
+      "name": "Section D"
+    },
+    "dob": {
+      "date": "1990-12-04",
+      "age": 21
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1655901704/uuwgjrflspmvlbujk23a.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1655901704/uuwgjrflspmvlbujk23a.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1655901704/uuwgjrflspmvlbujk23a.jpg"
+    }
+  },
+  {
     "names": "thobo swe",
     "gender": "Male",
     "email": "constance.gartner@example.com",
