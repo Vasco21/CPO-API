@@ -4,7 +4,7 @@
     "gender": "Male",
     "email": "constance.gartner@example.com",
     "phone": "078 885 5531",
-    "Grade":"Grade 10",
+    "grade":"Grade 10",
     "location": {
       "number": 2916,
       "name": "Section M"
@@ -24,7 +24,7 @@
     "gender": "Male",
     "email": "constance.gartner@example.com",
     "phone": "078 999 5531",
-    "Grade":"Grade 10",
+    "grade":"Grade 10",
     "location": {
       "number": 2476,
       "name": "Section N"
@@ -44,7 +44,7 @@
     "gender": "Male",
     "email": "constance.gartner@example.com",
     "phone": "078 888 5531",
-    "Grade":"Grade 10",
+    "grade":"Grade 10",
     "location": {
       "number": 2426,
       "name": "Section N"
@@ -64,7 +64,7 @@
     "gender": "Male",
     "email": "constance.gartner@example.com",
     "phone": "078 885 5531",
-    "Grade":"Grade 10",
+    "grade":"Grade 10",
     "location": {
       "number": 2416,
       "name": "Section L"
