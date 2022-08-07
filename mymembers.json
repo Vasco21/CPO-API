@@ -38,5 +38,25 @@
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659879385/Creative-Power-Org/Sello_sladhz-Square_r7pp31.jpg",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659879385/Creative-Power-Org/Sello_sladhz-Square_r7pp31.jpg"
     }
+  },
+  {
+    "names": "Eric Modise",
+    "gender": "Male",
+    "email": "tankisoericm@Gmail.com",
+    "phone": "+2760 474 3493",
+    "grade":"Grade 12",
+    "location": {
+      "number": 2841,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2004-08-29",
+      "age": 18
+    },
+    "picture": {
+      "large": "",
+      "medium": "",
+      "thumbnail": ""
+    }
   } 
 ]
