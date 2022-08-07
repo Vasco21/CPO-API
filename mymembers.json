@@ -17,6 +17,25 @@
       "large": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png"
+    },
+    {
+    "names": "Itumeleng Sello",
+    "gender": "Male",
+    "email": "itumelengsello401@Gmail.com",
+    "phone": "+2768 226 4114",
+    "grade":"Grade 12",
+    "location": {
+      "number": 2555,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2004-08-22",
+      "age": 18
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1659878262/Creative-Power-Org/Sello_sladhz.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659878262/Creative-Power-Org/Sello_sladhz.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659878262/Creative-Power-Org/Sello_sladhz.jpg"
     }
   }
 ]
