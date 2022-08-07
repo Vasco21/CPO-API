@@ -17,8 +17,9 @@
       "large": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png"
-    },
-    {
+    }
+  },
+  {
     "names": "Itumeleng Sello",
     "gender": "Male",
     "email": "itumelengsello401@Gmail.com",
@@ -37,5 +38,5 @@
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659878262/Creative-Power-Org/Sello_sladhz.jpg",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659878262/Creative-Power-Org/Sello_sladhz.jpg"
     }
-  }
+  } 
 ]
