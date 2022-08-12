@@ -74,9 +74,9 @@
       "age": 17
     },
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg"
+      "large": "https://asset.cloudinary.com/creative-power/8f4dea81b90bfad9a039a9da89deebbf",
+      "medium": "https://asset.cloudinary.com/creative-power/8f4dea81b90bfad9a039a9da89deebbf",
+      "thumbnail": "https://asset.cloudinary.com/creative-power/8f4dea81b90bfad9a039a9da89deebbf"
     }
   } 
 ]
