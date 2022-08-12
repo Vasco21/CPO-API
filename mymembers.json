@@ -63,14 +63,14 @@
     "names": "Andile November",
     "gender": "Male",
     "email": "novemberandile123@Gmail.com",
-    "phone": "+27 --- ----
+    "phone": "+27 --- ----",
     "grade":"Grade 10,
     "location": {
-      "number": 2821
+      "number": 2821,
       "name": "Section M"
     },
     "dob": {
-      "date": "2005-12-21;
+      "date": "2005-12-21",
       "age": 17
     },
     "picture": {
