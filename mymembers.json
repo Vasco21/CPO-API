@@ -58,5 +58,25 @@
       "medium": "",
       "thumbnail": ""
     }
+  },
+   {
+    "names": "Andile November",
+    "gender": "Male",
+    "email": "novemberandile123@Gmail.com",
+    "phone": "+27 --- ----
+    "grade":"Grade 10,
+    "location": {
+      "number": 2821
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2005-12-21;
+      "age": 17
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1660329792/Creative-Power-Org/November_s9cftk.jpg"
+    }
   } 
 ]
