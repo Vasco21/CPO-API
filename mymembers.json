@@ -78,5 +78,25 @@
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1660331679/Creative-Power-Org/November_s9cftk.jpg",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1660331679/Creative-Power-Org/November_s9cftk.jpg"
     }
+  },
+  {
+    "names": "Khobo Dlayedwa",
+    "gender": "Male",
+    "email": "owenkhobo@gmail.com",
+    "phone": "+2763 079 6289",
+    "grade":"Grade 11",
+    "location": {
+      "number": 3477,
+      "name": "Section n"
+    },
+    "dob": {
+      "date": "2005-03-04",
+      "age": 17
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg"
+    }
   } 
 ]
