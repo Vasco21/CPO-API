@@ -87,7 +87,7 @@
     "grade":"Grade 11",
     "location": {
       "number": 3477,
-      "name": "Section n"
+      "name": "Section N"
     },
     "dob": {
       "date": "2005-03-04",
@@ -97,6 +97,86 @@
       "large": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg"
+    }
+  },
+    {
+    "names": "Tankiso Tshabalala",
+    "gender": "Male",
+    "email": "",
+    "phone": "+2763 079 6289",
+    "grade":"Grade 8",
+    "location": {
+      "number": 2697,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2006-08-11",
+      "age": 16
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662831186/Creative-Power-Org/tankisi_ebg0r0.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662831186/Creative-Power-Org/tankisi_ebg0r0.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662831186/Creative-Power-Org/tankisi_ebg0r0.jpg"
+    }
+  },
+  {
+    "names": "Vuyo Seeko",
+    "gender": "Male",
+    "email": "",
+    "phone": "+2760 556 7719",
+    "grade":"Grade 9",
+    "location": {
+      "number": 3491,
+      "name": "Section N"
+    },
+    "dob": {
+      "date": "2007-06-16",
+      "age": 15
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662831195/Creative-Power-Org/vuyo_wq3mcs.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662831195/Creative-Power-Org/vuyo_wq3mcs.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662831195/Creative-Power-Org/vuyo_wq3mcs.jpg"
+    }
+  },
+  {
+    "names": "Tshepang Sello",
+    "gender": "Male",
+    "email": "",
+    "phone": "+2778 630 3177",
+    "grade":"Grade 10",
+    "location": {
+      "number": 2511,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2005-07-28",
+      "age": 17
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662831185/Creative-Power-Org/edward_com88e.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662831185/Creative-Power-Org/edward_com88e.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662831185/Creative-Power-Org/edward_com88e.jpg"
+    }
+  },
+  {
+    "names": "Hlonolofatso Motsoari",
+    "gender": "Male",
+    "email": "",
+    "phone": "+2778 922 0873",
+    "grade":"Grade 9",
+    "location": {
+      "number": 3459,
+      "name": "Section N"
+    },
+    "dob": {
+      "date": "2006-03-02",
+      "age": 16
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662831187/Creative-Power-Org/matspari_kvmiyr.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662831187/Creative-Power-Org/matspari_kvmiyr.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662831187/Creative-Power-Org/matspari_kvmiyr.jpg"
     }
   } 
 ]
