@@ -20,6 +20,26 @@
     }
   },
   {
+    "names": "Bokamoso Masakala",
+    "gender": "Female",
+    "email": "",
+    "phone": "",
+    "grade":"Grade 10",
+    "location": {
+      "number": 2130,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2006-09-19",
+      "age": 16
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg"
+    }
+  },
+  {
     "names": "Itumeleng Sello",
     "gender": "Male",
     "email": "itumelengsello401@Gmail.com",
