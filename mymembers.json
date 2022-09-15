@@ -74,9 +74,9 @@
       "age": 18
     },
     "picture": {
-      "large": "",
-      "medium": "",
-      "thumbnail": ""
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg"
     }
   },
    {
