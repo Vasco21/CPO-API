@@ -140,6 +140,26 @@
     }
   },
   {
+    "names": "Mahlomola Monakaladi",
+    "gender": "Male",
+    "email": "",
+    "phone": "+2778 131 4890",
+    "grade":"Grade 9",
+    "location": {
+      "number": 2726,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2005-12-15",
+      "age": 17
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg"
+    }
+  },
+  {
     "names": "Vuyo Seeko",
     "gender": "Male",
     "email": "",
@@ -197,26 +217,6 @@
       "large": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg",
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg",
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg"
-    }
-  },
-  {
-    "names": "Mahlomola Monakaladi",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2778 131 4890",
-    "grade":"Grade 9",
-    "location": {
-      "number": 2726,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2005-12-15",
-      "age": 17
-    },
-    "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg"
     }
   }
 ]
