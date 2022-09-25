@@ -79,6 +79,26 @@
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg"
     }
   },
+  {
+    "names": "Kedibone Tshabalala",
+    "gender": "Male",
+    "email": "tankisoericm@Gmail.com",
+    "phone": "+2765 574 8606",
+    "grade":"Grade 11",
+    "location": {
+      "number": 2518,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2000-07-10",
+      "age": 22
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg"
+    }
+  },
    {
     "names": "Andile November",
     "gender": "Male",
