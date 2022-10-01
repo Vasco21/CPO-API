@@ -139,6 +139,26 @@
       "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg"
     }
   },
+  {
+    "names": "Briidgett Motsie",
+    "gender": "Female",
+    "email": "briidgettmotsie@gmail.com ",
+    "phone": "+2773 916 3133",
+    "grade":"Grade 12",
+    "location": {
+      "number": 246,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "2002-03-25",
+      "age": 20
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg"
+    }
+  },
     {
     "names": "Tankiso Tshabalala",
     "gender": "Male",
